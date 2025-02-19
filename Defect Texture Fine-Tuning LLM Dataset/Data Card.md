@@ -9,6 +9,7 @@ This dataset contains visusl texture training examples used for fine-tuning LLM,
 2025-02-19
 
 ## 📁 Data Format
+- **File Name:** texture_training_examples.jsonl
 - **File Type:** JSON Lines (`.jsonl`)
 - **Content:** Each line represents a single training example with labeled data.
 
