@@ -12,8 +12,8 @@ This repository hosts datasets created and/or used by MCRLab researchers for var
 
 | Dataset Name    | Type           | Source                | Contributor(s) | Citation(s)                          |
 |-----------------|----------------|-----------------------|---------------|---------------------------------------|
-| ExampleDataset1 | Created        | Internal Research     | Dr. Jane Doe  | [Doe et al., 2022](link_to_paper)    |
-| OpenDatasetX    | Public Dataset | [Link](link_to_source)| John Smith    | [Smith et al., 2020](link_to_paper)  |
+| Railway Defect Texture FT | Created        | Internal Research     | Rahatara Ferdousi  | [Rahatara et al. 2024](https://arxiv.org/pdf/2410.18085)    |
+| Rail Track Fault Detection   | Public Dataset | [Link](https://www.kaggle.com/datasets/salmaneunus/railway-track-fault-detection/data)| Eunus SI | [Eunus et al., 2024](https://doi.org/10.3390/ai5020024)  |
 
 ---
 
