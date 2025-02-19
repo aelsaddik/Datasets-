@@ -2,20 +2,21 @@
 
 This repository hosts datasets created and/or used by MCRLab researchers for various research projects. The goal is to ensure data transparency, reproducibility, and easy access for all team members and collaborators.
 
+## 📁 **Repository Structure
 
+## 📊 **MCRLab Created Datasets**
 
-## 📁 **Repository Structure**
-
----
-
-## 📊 **Available Datasets**
-
-| Dataset Name    | Type           | Source                | Contributor(s) | Citation(s)                          |
-|-----------------|----------------|-----------------------|---------------|---------------------------------------|
-| Railway Defect Texture FT | Created        | Internal Research     | Rahatara Ferdousi  | [Rahatara et al. 2024](https://arxiv.org/pdf/2410.18085)    |
-| Rail Track Fault Detection   | Public Dataset | [Link](https://www.kaggle.com/datasets/salmaneunus/railway-track-fault-detection/data)| Eunus SI | [Eunus et al., 2024](https://doi.org/10.3390/ai5020024)  |
+| Dataset Name               | Type    | Source            | Contributor(s)      | Citation(s)                                      |
+|-----------------------------|---------|-------------------|---------------------|--------------------------------------------------|
+| Railway Defect Texture FT    | Created | Internal Research | Rahatara Ferdousi   | [Rahatara et al., 2024](https://arxiv.org/pdf/2410.18085) |
 
 ---
+
+## 🌐 **External Datasets Used**
+
+| Dataset Name                | Used In Project              | Used by | Link                                               |
+|------------------------------|------------------------------|------------------|----------------------------------------------------|
+| Rail Track Fault Detection   | [DefectTwin](https://github.com/turna1/DefectTwin)    | Rahatara Ferdousi        | [Dataset Link](https://www.kaggle.com/datasets/salmaneunus/railway-track-fault-detection/data) |
 
 ## 🔗 **How to Use the Datasets**
 
