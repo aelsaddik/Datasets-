@@ -8,7 +8,7 @@ This repository hosts datasets created and/or used by MCRLab researchers for var
 
 | Dataset Name               | Type    | Source            | Contributor(s)      | Citation(s)                                      |
 |-----------------------------|---------|-------------------|---------------------|--------------------------------------------------|
-| Railway Defect Texture FT    | Created | Internal Research | Rahatara Ferdousi   | [Rahatara et al., 2024](https://arxiv.org/pdf/2410.18085) |
+| Railway Defect Texture FT    | Created | [Internal Research](https://github.com/aelsaddik/Datasets-/tree/main/Defect%20Texture%20Fine-Tuning%20LLM%20Dataset) | Rahatara Ferdousi   | [Rahatara et al., 2024](https://arxiv.org/pdf/2410.18085) |
 
 ---
 
