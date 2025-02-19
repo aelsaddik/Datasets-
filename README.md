@@ -2,7 +2,17 @@
 
 This repository hosts datasets created and/or used by MCRLab researchers for various research projects. The goal is to ensure data transparency, reproducibility, and easy access for all team members and collaborators.
 
-## 📁 **Repository Structure
+## 📁 Repository Structure Example
+
+datasets/
+│
+├── Defect_Texture_Fine-Tuning_LLM_Dataset/
+│   ├── Data_Card.md                  # Metadata and dataset description
+│   ├── texture_training_examples.jsonl # Actual dataset file
+│   └── supporting_files/             # (Optional) Additional files or scripts
+│
+└── README.md                         # Main repo documentation
+
 
 ## 📊 **MCRLab Created Datasets**
 
