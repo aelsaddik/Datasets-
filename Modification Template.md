@@ -85,7 +85,7 @@ Example Format:
 | [External Dataset Name]      | [Project Name]          | [Your Name]       | [Dataset Link](#)                                  |
 
 
-💡 Quick Example Walkthrough:
+# 💡 Quick Example Walkthrough:
 
 Let’s say you’re adding a new dataset called “Railway Signal Anomaly FT”:
 	1.	Folder Structure:
